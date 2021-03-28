@@ -8,23 +8,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This demo project was a one-day task created using React and the React-spring animation library.
 
-The project is my first dive into React, React-spring.
+The project is my first dive into React and React-spring.
 
   
 
 ## Outstanding tasks
 
--   Add the loading screen, so the page starts at the bottom.
-- Add alt tags to images
+-   Auto scroll page to the bottom behind a loading screen on load.
+-   Add alt tags to images
 -   Page doesn't scroll if the mouse is positioned over the rocket.
 -   Rocket requires proper animation (currently animated with CSS). I'd like to have an appropriate animation for the engine flames and propulsion.
 -   Rocket is present on page load. The rocket should appear in the proper location (at the bottom of the page)
--   Componentatize the parallax. The app.js file is quite DRY; I feel there's a better way to handle this in react, and the current implementation isn't a standardised approach.
+-   Componentatize the parallax. The app.js file has lots of repeated code; I feel there's a better way to handle this in react, and that the current           implementation isn't a standardised approach.
 -   Add more to the ground, trees, grass etc.
 -   Tests
 -   Cleanup resources from the 'Create React App' (favicon etc)
 
-  
 
 ## What went well
 
@@ -37,7 +36,7 @@ The project is my first dive into React, React-spring.
 
 ## Thoughts
 
--   Not sold on the idea the user has to click a button to auto scroll to the bottom, to then scroll up. Maybe this should have just been a keyframe animation instead; The loading screen may help with this a bit.
+-   Not sold on the idea the user has to click a button to auto scroll to the bottom, to then scroll up. Maybe this should have just been a keyframe animation instead; the loading screen may help with this a bit.
 -   The parallax configuration seems basic, I wasn't able to see an easy way of introducing horizontal parallax layers within the vertical parallax. I'm sure with more time, I'd find a solution to this.
 
   
