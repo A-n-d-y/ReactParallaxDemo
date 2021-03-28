@@ -1,6 +1,66 @@
-# Getting Started with Create React App
+# React Parallax Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
+
+![Demo video](https://i.ibb.co/HPq239q/rocket2.gif)
+## About
+
+This demo project was a one-day task created using React and the React-spring animation library.
+
+The project is my first dive into React, React-spring.
+
+  
+
+## Outstanding tasks
+
+-   Add the loading screen, so the page starts at the bottom.
+- Add alt tags to images
+-   Page doesn't scroll if the mouse is positioned over the rocket.
+-   Rocket requires proper animation (currently animated with CSS). I'd like to have an appropriate animation for the engine flames and propulsion.
+-   Rocket is present on page load. The rocket should appear in the proper location (at the bottom of the page)
+-   Componentatize the parallax. The app.js file is quite DRY; I feel there's a better way to handle this in react, and the current implementation isn't a standardised approach.
+-   Add more to the ground, trees, grass etc.
+-   Tests
+-   Cleanup resources from the 'Create React App' (favicon etc)
+
+  
+
+## What went well
+
+-   Creating the react app was straight forward
+-   Clear documentation, easy to implement the spring library
+-   Position images within the parallax didn't take long
+-   Tesla roadster with a waving Starman <br>
+![Tesla Starman](https://i.ibb.co/0ngfwdT/tesla.png)
+  
+
+## Thoughts
+
+-   Not sold on the idea the user has to click a button to auto scroll to the bottom, to then scroll up. Maybe this should have just been a keyframe animation instead; The loading screen may help with this a bit.
+-   The parallax configuration seems basic, I wasn't able to see an easy way of introducing horizontal parallax layers within the vertical parallax. I'm sure with more time, I'd find a solution to this.
+
+  
+
+## Assets used:
+
+https://www.pinclipart.com/pindetail/iboJoTJ_hot-air-balloon-opengameart-hot-air-balloon-clipart/
+
+https://www.pinclipart.com/downpngs/hbmhxJ_moon-clipart-dinosaur-clipart-comic-style-moon-png/
+
+https://www.pinclipart.com/downpngs/TRJTxx_satellites-animated-satellite-png-clipart/
+
+https://www.hiclipart.com/free-transparent-background-png-clipart-pjndq
+
+https://www.pinclipart.com/pindetail/whibm_earth-mars-planet-outer-space-uranus-mars-planet/
+
+https://www.pinclipart.com/pindetail/mJmxoT_space-space-baby-shower-over-the-moon-outer/
+
+https://www.pinclipart.com/downpngs/ibJJmbR_cartoon-ufo-clipart/
+
+https://www.hiclipart.com/free-transparent-background-png-clipart-ieycn
+
+
 
 ## Available Scripts
 
