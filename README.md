@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <hr>
 
 ![Demo video](https://i.ibb.co/HPq239q/rocket2.gif)
+
+<hr>
+Update 29/03/21: I've set up continuous deployment on AWS for this repo, [you can view a demo of this project here](https://main.d1kog8bxt84qnp.amplifyapp.com)
+<hr>
 ## About
 
 This demo project was a one-day task created using React and the React-spring animation library.
