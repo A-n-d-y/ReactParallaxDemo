@@ -1,13 +1,17 @@
+
 # React Parallax Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+[View the demo](https://main.d1kog8bxt84qnp.amplifyapp.com)
 <hr>
 
 ![Demo video](https://i.ibb.co/HPq239q/rocket2.gif)
 
-<hr>
-Update 29/03/21: I've set up continuous deployment on AWS for this repo, [you can view a demo of this project here](https://main.d1kog8bxt84qnp.amplifyapp.com)
-<hr>
+
+Update 29/03/21: I've set up continuous deployment on AWS for this repo,
+ [you can view a demo of the project here](https://main.d1kog8bxt84qnp.amplifyapp.com)
+
 ## About
 
 This demo project was a one-day task created using React and the React-spring animation library.
